@@ -1,2 +1,2 @@
-# outreach
-Open Source and Software Innovation Outreach Docs
+# Outreach
+Documentation, guidelines, and lessons from open source software innovation Outreach.
