@@ -34,3 +34,7 @@ My job title could be:
 ## Technology Executive
 
 I offer executive guidance on the alignment of technical resources to our organizational needs. I drive digital transformation and other technology initiatives by building a vision and around the systems and infrastructure our org uses and adopts, and leading adoption. I ensure that strategic plans honor security, compliance, user experience, and other business focus areas that technology impacts. 
+
+## Developer Advocate Explorer
+
+I research and develop hands-on projects and solutions using open source tools as part of my developer relations or advocacy role. I have a strong connection to the technical implementation and business application of the projects because of my work with stakeholders from different companies. I have awareness of many projects and may contribute and engage heavily in those I'm passionate about, but I also need to maintain a broad knee-deep familiarity with a variety of tools and platforms.
